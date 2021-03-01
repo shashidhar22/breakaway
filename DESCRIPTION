@@ -40,5 +40,6 @@ Suggests: corncob,
     RCurl,
     rmarkdown,
     tidyverse
+biocViews: phyloseq
 VignetteBuilder: knitr
 URL: https://adw96.github.io/breakaway/
